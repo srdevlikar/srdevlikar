@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srdevlikar.
 - 👀 I’m interested in learning new stuff & exploring what i have already learnt.
 - 🌱 I’m currently learning Data Ananlytics.
-- 💞️ I’m looking to collaborate on interesting projects on PowerBI, Tablue, Python & Excel.
+- 💞️ I’m looking to collaborate on interesting projects on PowerBI, SQL, Tablue, Python & Excel.
 - 📫 Connecting to me via my mail adddress or this platform is preferred.
 
 <!---
